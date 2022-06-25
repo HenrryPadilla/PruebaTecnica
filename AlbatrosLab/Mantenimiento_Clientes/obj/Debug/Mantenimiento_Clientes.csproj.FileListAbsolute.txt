@@ -1,0 +1,10 @@
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Clientes\bin\Debug\Mantenimiento_Clientes.dll
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Clientes\bin\Debug\Mantenimiento_Clientes.pdb
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Clientes\bin\Debug\ConexionSQL.dll
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Clientes\bin\Debug\ConexionSQL.pdb
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Clientes\bin\Debug\ConexionSQL.dll.config
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Clientes\obj\Debug\Mantenimiento_Clientes.csproj.AssemblyReference.cache
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Clientes\obj\Debug\Mantenimiento_Clientes.csproj.CoreCompileInputs.cache
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Clientes\obj\Debug\Mantenimiento_Clientes.csproj.CopyComplete
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Clientes\obj\Debug\Mantenimiento_Clientes.dll
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Clientes\obj\Debug\Mantenimiento_Clientes.pdb

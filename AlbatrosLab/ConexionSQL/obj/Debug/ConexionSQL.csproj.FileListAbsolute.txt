@@ -1,0 +1,7 @@
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\ConexionSQL\bin\Debug\ConexionSQL.dll.config
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\ConexionSQL\bin\Debug\ConexionSQL.dll
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\ConexionSQL\bin\Debug\ConexionSQL.pdb
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\ConexionSQL\obj\Debug\ConexionSQL.csproj.AssemblyReference.cache
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\ConexionSQL\obj\Debug\ConexionSQL.csproj.CoreCompileInputs.cache
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\ConexionSQL\obj\Debug\ConexionSQL.dll
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\ConexionSQL\obj\Debug\ConexionSQL.pdb

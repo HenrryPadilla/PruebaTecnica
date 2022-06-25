@@ -1,0 +1,10 @@
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Impuestos\bin\Debug\Mantenimiento_Impuestos.dll
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Impuestos\bin\Debug\Mantenimiento_Impuestos.pdb
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Impuestos\bin\Debug\ConexionSQL.dll
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Impuestos\bin\Debug\ConexionSQL.pdb
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Impuestos\bin\Debug\ConexionSQL.dll.config
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Impuestos\obj\Debug\Mantenimiento_Impuestos.csproj.AssemblyReference.cache
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Impuestos\obj\Debug\Mantenimiento_Impuestos.csproj.CoreCompileInputs.cache
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Impuestos\obj\Debug\Mantenimiento_Impuestos.csproj.CopyComplete
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Impuestos\obj\Debug\Mantenimiento_Impuestos.dll
+C:\Users\eberr\OneDrive\Documentos\Henrry Padilla\AlbatrosLab\Mantenimiento_Impuestos\obj\Debug\Mantenimiento_Impuestos.pdb

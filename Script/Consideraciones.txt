@@ -1,0 +1,9 @@
+Notas:
+
+1) Ejecutar 1. -CreacionBaseDatos.sql
+2) Ejecutar 2. -CreacionObjetos.sql
+
+*Es probable que el usuario no quede habilitado, favor su ayuda habilitandolo.
+*Cualquier inconveniente por el tema de rutas en la creación de la base y objetos 
+ adjunto archivo .bak por si desean restaurarlo.
+*El Formulario de Factura no lo realicé.
